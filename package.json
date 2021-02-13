@@ -1,0 +1,12 @@
+{
+  "name": "PANGATNIG",
+  "version": "1.0.0",
+  "description": "pagsusulit sa pangatnig",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+ "devDependencies": {
+    "electron": "^3.0.7"
+  }
+}
